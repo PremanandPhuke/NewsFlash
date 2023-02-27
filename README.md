@@ -2,7 +2,8 @@
 NewsFlash is a web application developed using React.js for daily news updates which provides top headlines with every single detail.  -->
 
 # Welcome to NewsFlash
-Your daily news source, built using React.js!
+NewsFlash is a web application developed using React.js for daily news updates which provides top headlines with every single detail.
+
 
 NewsFlash is a modern and user-friendly news website that brings you the latest headlines from around the world. With our easy-to-use interface, you can quickly browse through top stories, trending news, and breaking news updates from various categories such as politics, technology, entertainment, sports, and more.
 
@@ -17,10 +18,13 @@ Our website is built using React.js, a powerful JavaScript library for building 
 5. Categories: Browse news articles by different categories.
 6. Responsive design: Our website is designed to be mobile-friendly and responsive, ensuring a seamless experience on any device.
 
----
 
 We update our website frequently with the latest news and stories, so be sure to check back often!
 
 Thank you for choosing NewsFlash as your daily news source.
 
 ---
+
+<p align=center>
+<em><b>Thank you for visiting  :)</em>
+</p>
